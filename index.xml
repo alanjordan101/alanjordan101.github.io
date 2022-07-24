@@ -5,7 +5,18 @@
     <link>/</link>
     <description>Recent content on A Hugo website</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sun, 24 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Krapola!</title>
+      <link>/2022/07/24/krapola/</link>
+      <pubDate>Sun, 24 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/2022/07/24/krapola/</guid>
+      <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+When you click the Knit button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:</description>
+    </item>
+    
     <item>
       <title>About</title>
       <link>/about/</link>
